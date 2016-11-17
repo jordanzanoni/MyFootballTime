@@ -1,0 +1,31 @@
+﻿  main.cpp
+c:\users\jordan\documents\visual studio 2015\projects\timesapp\timesapp\main.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\jordan\documents\visual studio 2015\projects\timesapp\timesapp\main.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\jordan\documents\visual studio 2015\projects\timesapp\timesapp\main.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\jordan\documents\visual studio 2015\projects\timesapp\timesapp\palmeira.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\jordan\documents\visual studio 2015\projects\timesapp\timesapp\time.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\jordan\documents\visual studio 2015\projects\timesapp\timesapp\time.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\jordan\documents\visual studio 2015\projects\timesapp\timesapp\main.cpp(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\jordan\documents\visual studio 2015\projects\timesapp\timesapp\time.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\jordan\documents\visual studio 2015\projects\timesapp\timesapp\time.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\jordan\documents\visual studio 2015\projects\timesapp\timesapp\time.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\jordan\documents\visual studio 2015\projects\timesapp\timesapp\time.h(9): error C2011: 'Time': 'class' type redefinition
+  c:\users\jordan\documents\visual studio 2015\projects\timesapp\timesapp\time.h(9): note: see declaration of 'Time'
+c:\users\jordan\documents\visual studio 2015\projects\timesapp\timesapp\time.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\jordan\documents\visual studio 2015\projects\timesapp\timesapp\time.cpp(6): error C2027: use of undefined type 'Time'
+  c:\users\jordan\documents\visual studio 2015\projects\timesapp\timesapp\time.h(9): note: see declaration of 'Time'
+c:\users\jordan\documents\visual studio 2015\projects\timesapp\timesapp\time.cpp(6): error C2059: syntax error: ')'
+c:\users\jordan\documents\visual studio 2015\projects\timesapp\timesapp\time.cpp(6): error C2143: syntax error: missing ';' before '{'
+c:\users\jordan\documents\visual studio 2015\projects\timesapp\timesapp\time.cpp(6): error C2447: '{': missing function header (old-style formal list?)
+c:\users\jordan\documents\visual studio 2015\projects\timesapp\timesapp\time.cpp(10): error C2027: use of undefined type 'Time'
+  c:\users\jordan\documents\visual studio 2015\projects\timesapp\timesapp\time.h(9): note: see declaration of 'Time'
+c:\users\jordan\documents\visual studio 2015\projects\timesapp\timesapp\time.cpp(15): error C2027: use of undefined type 'Time'
+  c:\users\jordan\documents\visual studio 2015\projects\timesapp\timesapp\time.h(9): note: see declaration of 'Time'
+c:\users\jordan\documents\visual studio 2015\projects\timesapp\timesapp\main.cpp(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\jordan\documents\visual studio 2015\projects\timesapp\timesapp\time.h(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\jordan\documents\visual studio 2015\projects\timesapp\timesapp\time.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\jordan\documents\visual studio 2015\projects\timesapp\timesapp\main.cpp(19): error C2079: 'time' uses undefined class 'Time'
+c:\users\jordan\documents\visual studio 2015\projects\timesapp\timesapp\main.cpp(24): error C2440: '=': cannot convert from 'Palmeiras' to 'int'
+  c:\users\jordan\documents\visual studio 2015\projects\timesapp\timesapp\main.cpp(24): note: No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+c:\users\jordan\documents\visual studio 2015\projects\timesapp\timesapp\main.cpp(30): error C2228: left of '.comprarJogador' must have class/struct/union
+  c:\users\jordan\documents\visual studio 2015\projects\timesapp\timesapp\main.cpp(30): note: type is 'int'
